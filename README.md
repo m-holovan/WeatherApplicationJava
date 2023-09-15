@@ -19,16 +19,26 @@ The path where the file will be saved is chosen by the user.
 
 
 Contents of the file “currentWeather.txt”
+
+
+
 ![image](https://github.com/m-holovan/WeatherApplicationJava/assets/106975955/90508407-3bea-4e23-9c47-c240a23b96c9)
+
+
 
 
 3. If we click on the "Save to database" button, our current forecast will be saved to the database.
 ![image](https://github.com/m-holovan/WeatherApplicationJava/assets/106975955/1bdcc12a-524e-4df3-a25d-44817d0d5cc8)
 
 
+
+
 4. When you click the "Save all information" button, all data from the database will be saved in the AllInformation.txt file
 
 Contents of the file “AllInformation.txt”
+
+
+
 ![image](https://github.com/m-holovan/WeatherApplicationJava/assets/106975955/0c3bc864-87f1-4ca6-b491-f5414282d793)
 
 
