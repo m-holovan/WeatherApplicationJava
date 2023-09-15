@@ -1,0 +1,43 @@
+package com.example.individualproject;
+
+import java.util.ArrayList;
+public class Datum{
+    public double app_max_temp;
+    public double app_min_temp;
+    public int clouds;
+    public int clouds_hi;
+    public int clouds_low;
+    public int clouds_mid;
+    public String datetime;
+    public double dewpt;
+    public double high_temp;
+    public double low_temp;
+    public Object max_dhi;
+    public double max_temp;
+    public double min_temp;
+    public double moon_phase;
+    public double moon_phase_lunation;
+    public int moonrise_ts;
+    public int moonset_ts;
+    public double ozone;
+    public int pop;
+    public double precip;
+    public double pres;
+    public int rh;
+    public double slp;
+    public int snow;
+    public int snow_depth;
+    public int sunrise_ts;
+    public int sunset_ts;
+    public double temp;
+    public int ts;
+    public double uv;
+    public String valid_date;
+    public double vis;
+    public Weather weather;
+    public String wind_cdir;
+    public String wind_cdir_full;
+    public int wind_dir;
+    public double wind_gust_spd;
+    public double wind_spd;
+}
